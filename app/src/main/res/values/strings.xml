@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Checkers</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="settings">
+        <item>NeverMind</item>
+        <item>Main Menu</item>
+    </string-array>
+</resources>
